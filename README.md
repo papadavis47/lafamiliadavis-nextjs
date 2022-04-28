@@ -1,4 +1,5 @@
-# My Styled Components Starter for Next.js
+# La Familia Davis
 
-This is a starter template for any project I make using styled-components - one of my favorite CSS
-solutions.
+## A place for fun and experimention
+
+This is my family website. I am building it in small pieces, and experimenting with tech as I go 😄
