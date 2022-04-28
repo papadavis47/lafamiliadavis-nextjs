@@ -10,7 +10,7 @@ export default function Home() {
         <meta name='description' content='A Starter for styled-components' />
         <link rel='icon' href='/wave.ico' />
       </Head>
-      <Title>This is my styled component!</Title>
+      <Title>La Familia Davis</Title>
     </div>
   );
 }
